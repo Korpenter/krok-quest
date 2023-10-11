@@ -1,3 +1,3 @@
 # krok-school-itmo
-2023 Doronin Dmitrii
-tg: @Di7ks
+Doronin Dmitrii
+tg: [@Di7ks](https://t.me/Di7ks)
