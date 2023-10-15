@@ -148,5 +148,5 @@ public class ProgressionBench {
 <details>
 <summary>Результат</summary>
 
-![screenshot_2](https://github.com/Korpenter/url-shortener/assets/141184937/0395ee02-5b16-4871-93be-7cb051fab723)
+![screenshot_2](https://github.com/Korpenter/krok-school-itmo/assets/141184937/6596e675-65ae-47b7-a878-ef754d24d6e3)
 </details>
