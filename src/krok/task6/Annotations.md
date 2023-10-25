@@ -4,7 +4,7 @@ Author: Doronin Dmitrii Alekseevich
 Task: Week 3 practice - Task 6  
 Creation Date: 25.10.2023
 
-## Задание №5
+## Задание №6
 <details>
 <summary>Цель задания</summary>
 
