@@ -21,3 +21,4 @@ Creation Date: 25.10.2023
 В ходе выполнения задания реализовал inmem repo, в котором объекты модифицируются напрямую, а не возвращается копия, которая
 потом обновляется через controller/service, как это было бы с persistent storage.
 
+![image](https://github.com/Korpenter/krok-school-itmo/assets/141184937/c0e502e6-4de4-4539-8086-d516f8fed191)
