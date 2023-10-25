@@ -89,4 +89,5 @@ void move(int dx, int dy);
 </details>
 
 ### Ход выполнения задания:
+![image](https://github.com/Korpenter/krok-school-itmo/assets/141184937/09153959-0c88-4f6a-9617-88fe611a68c1)
 
